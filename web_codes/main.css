@@ -1,0 +1,18 @@
+body {
+  background-image: url('../web_resources/universe.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+h1 {
+  color: rgb(255, 255, 0);
+  position: fixed;
+  top: 300px;
+  left: 1000px;
+}
+h2 {
+  color: rgb(255, 255, 0);
+  position: fixed;
+  top: 350px;
+  left: 1000px;
+}
